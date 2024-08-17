@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad hammad khan
-- 👀 I’m interested in Web and App development
+- 👀 I’m interested in Mobile App development
 - 🌱 I’m currently learning javaScript || React.js || React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
