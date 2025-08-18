@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad hammad khan
 - 👀 I’m interested in Mobile App development
-- 🌱 I’m currently learning javaScript || React.js || React Native
+- 🌱 I’m currently learning javaScript || React.js || React Native || Tailwind Css || Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
