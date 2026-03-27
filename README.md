@@ -32,14 +32,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hammadkhan2930029&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadkhan2930029&layout=compact&theme=tokyonight" />
+  ![Hammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammadkhan2930029&show_icons=true&theme=tokyonight&count_private=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadkhan2930029&layout=compact&theme=tokyonight)
+ 
 </p>
 
 ---
 
 ### 📫 Connect with Me
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/muhammad-hammad-a80286242?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- 💼 **LinkedIn:** [Muhammad Hammad Khan](https://www.linkedin.com/in/muhammad-hammad-a80286242)
 - 📧 **Email:** [hammad2930029@gmail.com]
 - 📱 **Instagram/Twitter:** [@hammadhk131]
 
