@@ -32,10 +32,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  ![Hammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammadkhan2930029&show_icons=true&theme=tokyonight&count_private=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadkhan2930029&layout=compact&theme=tokyonight)
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=hammadkhan2930029&show_icons=true&theme=tokyonight&count_private=true" alt="Hammad's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadkhan2930029&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
+
+---
 
 ---
 
